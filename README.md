@@ -1,3 +1,4 @@
+# The tutorial was created by Kit
 # Create An ENTIRE NFT Collection (10,000+) & MINT
 
 ## Table of Contents
